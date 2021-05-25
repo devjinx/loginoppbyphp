@@ -5,4 +5,4 @@ create by Thanakorn Chareonlertkamol
 email: jeongseokjin28@gmail.com
 First upload this sql file and name is register oop 
 create a user in Register.php
-login 
+login  in index.php
